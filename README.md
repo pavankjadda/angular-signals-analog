@@ -4,19 +4,19 @@ This project was generated with [Analog](https://analogjs.org), the fullstack me
 
 ## Setup
 
-Run `yarn` to install the application dependencies.
+Run `pnpm i` to install the application dependencies.
 
 ## Development
 
-Run `yarn dev` for a dev server. Navigate to `http://localhost:5173/`. The application will automatically reload if you change any of the source files.
+Run `pnpm dev or pnpm start` for a dev server. Navigate to `http://localhost:4200`. The application will automatically reload if you change any of the source files.
 
 ## Build
 
-Run `yarn build` to build the client/server project. The client build artifacts are located in the `dist/client` directory. The server for the API build artifacts are located in the `dist/server` directory.
+Run `pnpm build` to build the client/server project. The client build artifacts are located in the `dist/client` directory. The server for the API build artifacts are located in the `dist/server` directory.
 
 ## Test
 
-Run `yarn test` to run unit tests with [Vitest](https://vitest.dev).
+Run `pnpm test` to run unit tests with [Vitest](https://vitest.dev).
 
 ## Community
 
